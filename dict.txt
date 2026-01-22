@@ -2174,3 +2174,5 @@ gardai=gardai
 khan=khana
 basn=basna
 garn=garna
+h=ha
+ri=ri
